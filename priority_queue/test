@@ -1,0 +1,9 @@
+class Solution {
+public:
+  string multiply(string num1, string num2) {
+    reverse(num1.begin(), num1.end());
+    reverse(num2.begin(), num2.end());
+    unordered_map<char, int> mp;
+    for (int i = )
+  }
+};
